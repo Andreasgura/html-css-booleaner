@@ -1,9 +1,36 @@
 *{
     font-family: 'Roboto', sans-serif;
     margin: 0;
-    background-color: aquamarine;
 }
 header{
     color: white;
-    background-image: url(../img/pattern.png);
+    background-color: #6EA4ED;
 }
+.img{
+    width: 90%;
+}
+#cit {
+    color: #6EA4ED;
+}
+.text{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.yellowhightlighter{
+    background-color: yellow;
+}
+table {
+    border-collapse: collapse;
+    table-layout: auto;
+}
+th, td {
+    text-align: left;
+}
+th {
+    background-color:#20A9E5;
+    color: white;
+  }
+.sparerow {
+    background-color: #B1E5F2;
+}
+  
